@@ -1,11 +1,11 @@
 Pod::Spec.new do |s|
 
   s.name         = "XCCountdownButton"
-  s.version      = "2.0.0"
+  s.version      = "2.0.1"
   s.summary      = "Dropdown"
-  s.platform     = :ios, "8.0"
+  s.platform     = :ios, "8.3"
   
-  s.description  = "自定义下拉菜单封装"
+  s.description  = "XCCountdownButton自定义下拉菜单封装"
 
   s.homepage     = "https://github.com/fanxiaocong/XCCountdownButton"
 
