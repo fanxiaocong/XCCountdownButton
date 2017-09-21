@@ -163,7 +163,6 @@
     {
         self.didClickHandle(self);
     }
-    
 }
 
 #pragma mark - 🔓 👀 Public Method 👀
@@ -207,33 +206,6 @@
 }
 
 @end
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 

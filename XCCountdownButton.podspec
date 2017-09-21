@@ -1,9 +1,10 @@
 Pod::Spec.new do |s|
 
   s.name         = "XCCountdownButton"
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "Dropdown"
-
+  s.platform     = :ios, "8.0"
+  
   s.description  = "自定义下拉菜单封装"
 
   s.homepage     = "https://github.com/fanxiaocong/XCCountdownButton"
@@ -19,7 +20,5 @@ Pod::Spec.new do |s|
 
   s.source_files  = "XCCountdownButton"
   s.requires_arc  = true
-  s.platform     = :ios, "8.0"
-  s.frameworks   =  'UIKit'
 
 end
